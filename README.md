@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/Mebus/cupp.svg?branch=master)](https://travis-ci.org/Mebus/cupp)
 [![Coverage Status](https://coveralls.io/repos/github/Mebus/cupp/badge.svg)](https://coveralls.io/github/Mebus/cupp)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/be081b6a20b043ce9d79fd3d48b40009)](https://app.codacy.com/gh/Mebus/cupp/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Codacy Badge](https://app.codacy.com/projgit@github.com:Mebus/cupp.gitect/badge/Grade/be081b6a20b043ce9d79fd3d48b40009)](https://app.codacy.com/gh/Mebus/cupp/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/img/badges/Rawsec-inventoried-FF5050_plastic.svg)](https://inventory.raw.pm/)
 
  
@@ -113,5 +113,5 @@ to encourage further development of the tool.
 
   * quantumcore  
     https://github.com/quantumcore
-    
+git@github.com:Mebus/cupp.git
 
